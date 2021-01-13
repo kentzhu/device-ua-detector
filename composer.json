@@ -1,0 +1,22 @@
+{
+  "name": "kentzhu/device-ua-detector",
+  "description": "detector device type by user-agent",
+  "type": "library",
+  "homepage": "https://github.com/kentzhu/device-ua-detector",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Kent Zhu",
+      "email": "suom@qq.com",
+      "homepage": "https://www.ywlib.com/"
+    }
+  ],
+  "require": {
+    "php": ">=5.6"
+  },
+  "autoload": {
+    "psr-4": {
+      "KentZhu\\DeviceUaDetector\\": "src/"
+    }
+  }
+}
